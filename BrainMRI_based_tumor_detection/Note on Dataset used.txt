@@ -1,0 +1,9 @@
+Dataset used
+============
+
+This dataset has been extracted from kaggle . Here's the link : https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
+The dataset originally contained just two folders with images YES and NO depicting the presence or absence of a tumor.
+
+Hence , I have divided it up into training and test sets and have uploaded the zip file of it ....
+
+Enjoy Deep Learning !!!
