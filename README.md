@@ -1,5 +1,5 @@
-# Deep-Learning-CNN
-Brain Tumor Detection
+
+#Brain Tumor Detection
 =====================
 
 In this , I have explored the dataset, augmented it and built a model with over 90% accuracy.
